@@ -1,2 +1,60 @@
-# semantic-trust-curve
-A privacy-safe framework that measures user trust through semantic dialogue, letting AI infer confidence and engagement from language alone—without clicks, logs, or tracking. 一套以語義對話評估使用者信任度的隱私友善框架，讓AI僅透過語句、回應與上下文推斷信任與參與訊號，無需點擊紀錄、行為追蹤或任何監控。
+# Semantic Trust Curve (STC)
+
+A privacy-safe framework for measuring user trust in AI systems through semantic dialogue instead of behavioral tracking.
+
+The Semantic Trust Curve enables AI models to infer trust, credibility, and engagement signals **solely from language**—including dialogue patterns, user responses, and contextual feedback—**without clicks, cookies, logs, or surveillance**.  
+This design establishes a new standard for ethical, transparent, next-generation AI interaction.
+
+---
+
+## 🌐 Core Concept
+
+Traditional trust analytics rely on:
+- Click-through rates  
+- User behavior logs  
+- Hidden tracking mechanisms  
+- Engagement metrics tied to surveillance  
+
+STC rejects these methods and instead adopts:
+
+### **🟣 Semantic-First Trust Assessment**
+Trust is measured from:
+- How the user responds  
+- How directly他 answers  
+- Whether他提出反饋  
+- 對話的韌性與持續性  
+- Whether他主動 ask deeper questions  
+- Whether他接受或質疑引用的來源  
+
+All signals come from *language*, not behavior.
+
+---
+
+## 🛡 Privacy Philosophy  
+STC follows a **Zero-Tracking Principle**:
+- No telemetry  
+- No user monitoring  
+- No cookies  
+- No clickstream capture  
+- No behavioral fingerprints  
+
+---
+
+## 📘 What This Repository Contains  
+- Public conceptual overview  
+- High-level definitions  
+- Ethical foundation  
+- Semantic vs. behavioral trust comparison  
+- Safe-to-publish diagrams & terminology  
+- Statement noting: **“Core algorithms are stored in a private repository.”**
+
+---
+
+## 🔒 Licensing  
+This repository follows the LORI Public Attribution License.  
+Core algorithms, semantic scoring matrices, and internal inference methods are private and protected under the **LORI Private Semantic Module License**.
+
+---
+
+## 📝 Notice  
+For collaboration, technical access requests, or licensing inquiries for enterprise or AI-lab integration, contact the LORI Framework custodial channel.
