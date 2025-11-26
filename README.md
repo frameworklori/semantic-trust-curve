@@ -18,15 +18,17 @@ Traditional trust analytics rely on:
 STC rejects these methods and instead adopts:
 
 ### **🟣 Semantic-First Trust Assessment**
-Trust is measured from:
-- How the user responds  
-- How directly他 answers  
-- Whether他提出反饋  
-- 對話的韌性與持續性  
-- Whether他主動 ask deeper questions  
-- Whether他接受或質疑引用的來源  
 
-All signals come from *language*, not behavior.
+Trust is measured from:
+
+How the user responds
+How directly they answer
+Whether they offer feedback
+The resilience and continuity of the dialogue
+Whether they proactively ask deeper questions
+Whether they accept or challenge cited sources
+
+All signals come from language, not behavior.
 
 ---
 
