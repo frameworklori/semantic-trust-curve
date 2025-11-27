@@ -1,4 +1,4 @@
-🟦 Semantic Trust Curve (STC) – README (English Version)
+# 🟦 Semantic Trust Curve (STC) – README
 
 
 Semantic Trust Curve (STC)
