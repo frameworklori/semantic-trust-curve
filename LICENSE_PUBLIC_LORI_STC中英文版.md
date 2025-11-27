@@ -1,6 +1,5 @@
-🟦 English Version
 
-LORI Public Attribution License v1.0
+# LORI Public Attribution License v1.0
 
 For public conceptual release — NON-commercial, NON-derivative, Attribution Required.
 
