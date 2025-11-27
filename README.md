@@ -1,8 +1,5 @@
 🟦 Semantic Trust Curve (STC) – README (English Version)
 
-Public Release — Safe for GitHub
-
-⸻
 
 Semantic Trust Curve (STC)
 
