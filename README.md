@@ -1,62 +1,126 @@
-# Semantic Trust Curve (STC)
+🟦 Semantic Trust Curve (STC) – README (English Version)
 
-A privacy-safe framework for measuring user trust in AI systems through semantic dialogue instead of behavioral tracking.
+Public Release — Safe for GitHub
 
-The Semantic Trust Curve enables AI models to infer trust, credibility, and engagement signals **solely from language**—including dialogue patterns, user responses, and contextual feedback—**without clicks, cookies, logs, or surveillance**.  
-This design establishes a new standard for ethical, transparent, next-generation AI interaction.
+⸻
 
----
+Semantic Trust Curve (STC)
 
-## 🌐 Core Concept
+A privacy-preserving framework for measuring user trust through language, not surveillance.
 
-Traditional trust analytics rely on:
-- Click-through rates  
-- User behavior logs  
-- Hidden tracking mechanisms  
-- Engagement metrics tied to surveillance  
+The Semantic Trust Curve evaluates trust, credibility, and engagement based entirely on dialogue semantics—not clicks, cookies, device fingerprints, or behavior tracking.
+STC uses natural conversation, user responses, and contextual feedback to infer trust signals ethically and transparently.
 
-STC rejects these methods and instead adopts:
+This repository contains the public conceptual layer of STC.
+All algorithms and scoring logic are maintained separately in a private core repository.
 
-### **🟣 Semantic-First Trust Assessment**
+⸻
 
-Trust is measured from:
+🌐 1. Core Concept
 
-How the user responds
-How directly they answer
-Whether they offer feedback
-The resilience and continuity of the dialogue
-Whether they proactively ask deeper questions
-Whether they accept or challenge cited sources
+Traditional trust analytics depend on hidden data:
+	•	click-through rates
+	•	browsing logs
+	•	engagement tracking
+	•	behavioral fingerprints
 
-All signals come from language, not behavior.
+STC rejects all surveillance-based metrics and introduces:
 
----
+⭐ Semantic-First Trust Assessment
 
-## 🛡 Privacy Philosophy  
-STC follows a **Zero-Tracking Principle**:
-- No telemetry  
-- No user monitoring  
-- No cookies  
-- No clickstream capture  
-- No behavioral fingerprints  
+AI evaluates trust from:
+	•	how users respond
+	•	how they question sources
+	•	whether they provide feedback
+	•	depth, clarity, and continuation of dialogue
+	•	acceptance vs. rejection of information
+	•	emotional tone shifts
 
----
+Everything comes from language alone.
 
-## 📘 What This Repository Contains  
-- Public conceptual overview  
-- High-level definitions  
-- Ethical foundation  
-- Semantic vs. behavioral trust comparison  
-- Safe-to-publish diagrams & terminology  
-- Statement noting: **“Core algorithms are stored in a private repository.”**
+⸻
 
----
+⭐ 2. Star-Based Feedback System (★★★★★)
 
-## 🔒 Licensing  
-This repository follows the LORI Public Attribution License.  
-Core algorithms, semantic scoring matrices, and internal inference methods are private and protected under the **LORI Private Semantic Module License**.
+STC integrates an optional 5-star semantic rating module, allowing users to quickly express:
+	•	perceived truthfulness
+	•	trust in the source
+	•	value of the information
+	•	preference among multiple links
+	•	content quality
+	•	overall credibility
 
----
+Example:
 
-## 📝 Notice  
-For collaboration, technical access requests, or licensing inquiries for enterprise or AI-lab integration, contact the LORI Framework custodial channel.
+“Which of the three links did you find most accurate?
+Rate each: ★1 to ★5.”
+
+This enables AI to collect fully voluntary, privacy-safe evaluation data.
+
+⸻
+
+📊 3. Semantic Market Intelligence (SMI)
+
+A major extension of STC is its ability to perform:
+
+Semantic Market Research — without tracking users.
+
+By analyzing:
+	•	star ratings
+	•	semantic feedback
+	•	preferred links
+	•	trust expressions
+	•	rejection patterns
+	•	curiosity spikes
+	•	conversation depth
+
+STC can generate powerful market insights:
+	•	trust heatmaps
+	•	source-credibility ranking
+	•	brand or content preference analysis
+	•	audience segmentation via semantic clustering
+	•	sentiment-trust overlays
+
+This makes STC suitable for:
+	•	product research
+	•	content testing
+	•	news trustworthiness analysis
+	•	consumer insight studies
+	•	ethical AI analytics
+	•	enterprise decision systems
+
+⸻
+
+🛡 4. Privacy Principles
+
+STC follows Zero-Tracking and Zero-Telemetry rules:
+	•	no cookies
+	•	no clickstream
+	•	no profiling
+	•	no device IDs
+	•	no behavior logs
+
+All insights come only from what users voluntarily say.
+
+⸻
+
+📘 5. Contents of This Public Repository
+
+This repo includes:
+	•	high-level concept of STC
+	•	trust curve philosophy
+	•	star-based evaluation method
+	•	semantic vs. behavioral trust comparison
+	•	ethical justification
+	•	diagrams safe for public release
+	•	notation that core algorithms are private
+
+⸻
+
+🔒 6. Licensing
+
+This repository is released under the
+LORI Public Attribution License.
+Core algorithms, scoring matrices, and implementation logic remain private under the LORI Private Semantic Module License.
+
+⸻
